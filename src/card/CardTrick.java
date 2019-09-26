@@ -6,6 +6,8 @@ import java.util.Scanner;
 /**
  *
  * @author Ridhima Nanda
+ RIDHIMA NANDA
+ STUDENT ID=991540361
  */
 public class CardTrick 
 {
