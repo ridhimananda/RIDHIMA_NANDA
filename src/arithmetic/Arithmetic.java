@@ -11,7 +11,7 @@ import java.util.Scanner;
 /** This class calls the method to perform 
  * arithmetic operations based on user input
  * execute the code check the output
- * @author sivagamasrinivasan
+ * @author RIDHIMANANDA
  * date 10/22
  */
 public class Arithmetic 
